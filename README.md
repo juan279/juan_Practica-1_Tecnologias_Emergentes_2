@@ -1,7 +1,7 @@
 | Carrera: | INGENIERIA DE SISTEMAS | | 
 | --- | :--- | :---|
 | Materia: | TECNOLOGIAS EMERGENTES II | 
-| Apellidos y nombres: | JUAN QUISPE CANAVIRI |
+| Apellidos y nombres: | JUAN QUISPE CANAVIRI |Q.
 | C.I: | 9100170 L.P. | 
 | Lugar y fecha: | EL ALTO 13 DE AGOSTO
 
